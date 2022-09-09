@@ -1,0 +1,17 @@
+Project Name: Rusty Roguelike
+Description:
+Story:
+
+Minimum Viable Product:
+	* Basic dungeon map
+	* place player and move around
+	* spawn monsters, render, attack player
+	* health and combat system
+	* healing potions
+	* game over screen when player dies
+	* add target item to acquire to win
+
+Stretch Goals:
+	* Field of view
+	* Expand dungeon designs
+
